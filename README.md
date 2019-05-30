@@ -16,7 +16,8 @@ GUI for custom songs in Beat Saber for Oculus Quest - NyanBlade#7754
 
 
 ## Credits:
-- emulamer
-- elliotttate
-- Beat Saber Modding Group
+- [emulamer](https://github.com/emulamer/QuestStopgap) - underlying scripts and getting everything to work
+- [trishume](https://github.com/trishume/QuestSaberPatch) - mod development
+- [elliotttate](https://github.com/elliotttate) - proof of concept
+- [Beat Saber Modding Group](https://discordapp.com/invite/beatsabermods)
 
