@@ -24,4 +24,4 @@ GUI for custom songs in Beat Saber for Oculus Quest - NyanBlade#7754
 - [00anwi](https://github.com/00anwi/BeatSaberChangeSongAndCoverFileNames) - image fixes
 - [elliotttate](https://github.com/elliotttate) - proof of concept
 - [Beat Saber Modding Group](https://discordapp.com/invite/beatsabermods)
-
+- [Beat Saber Quest Mod News](https://bsaber.com/oculus-quest-custom-songs/)
